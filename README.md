@@ -1,2 +1,2 @@
 # Matrix_Class_Cplusplus
-A matrix class using c++ and overloaded + and * operators
+A matrix class in C++ using overloaded member functions * and + and non member overloaded -. 
